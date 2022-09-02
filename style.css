@@ -7,7 +7,7 @@
 body{
     font-family: 'Roboto Mono', monospace;
     margin: 0;
-    background-color: steelblue;
+    background-color: #007f5f;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -17,12 +17,12 @@ body{
 }
 
 h1{
-    color: #fff;
+    color: #d8f3dc;
     margin: 50px;
 }
 
 .box{
-    background-color: olivedrab;
+    background-color: #55a630;
     color: #fff;
     display: flex;
     align-items: center;
@@ -31,7 +31,7 @@ h1{
     height: 150px;
     margin: 10px;
     border-radius: 10px;
-    border: 1px dotted orangered;
+    border: 1px solid #1b4332;
     box-shadow: 2px 4px 5px rgba(0 0 0 0.3);
     transform: translateX(400%);
     transition: transform .3s ease;

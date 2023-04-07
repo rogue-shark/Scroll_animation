@@ -34,7 +34,7 @@ h1{
     border: 1px solid #1b4332;
     box-shadow: 2px 4px 5px rgba(0 0 0 0.3);
     transform: translateX(400%);
-    transition: transform .3s ease;
+    transition: transform .4s ease;
 }
 
 .box:nth-of-type(even){
